@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-# The following code is sloppy, unorganized, and was written while on pain medication for a serrious injury.
+# The following code is sloppy, unorganized, and was written while on pain medication for a serious injury.
 
 '''
 Plan:
